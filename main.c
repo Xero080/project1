@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(){
-    printf("La programacion es mi pasion\n");
+    printf("La programación es mi pasión!\n");
     return(EXIT_SUCCESS);
 }
